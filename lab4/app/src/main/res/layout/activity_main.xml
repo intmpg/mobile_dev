@@ -21,11 +21,12 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:text="@string/take_a_photo"
+            android:text="@string/take_photo"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="takePhoto" />
+
     </LinearLayout>
 
 </LinearLayout>
