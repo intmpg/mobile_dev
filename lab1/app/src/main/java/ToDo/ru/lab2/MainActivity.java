@@ -1,4 +1,4 @@
-package lab1.ru.lab2;
+package ToDo.ru.lab2;
 
 import android.content.Intent;
 import android.os.Bundle;

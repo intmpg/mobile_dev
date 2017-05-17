@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
     defaultConfig {
-        applicationId 'lab1.ru.lab1'
+        applicationId 'patrushevoleg.ru.lab1'
         minSdkVersion 21
         targetSdkVersion 25
         versionCode 1

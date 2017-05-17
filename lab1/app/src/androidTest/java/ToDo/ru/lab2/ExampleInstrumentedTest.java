@@ -1,4 +1,4 @@
-package lab1.ru.lab2;
+package ToDo.ru.lab2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("lab1.ru.lab2", appContext.getPackageName());
+        assertEquals("patrushevoleg.ru.lab2", appContext.getPackageName());
     }
 }
